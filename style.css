@@ -1,6 +1,6 @@
 body{
   margin: 0;
-  background-image: url(floresta.jpg);
+  background-image: url(./floresta.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -19,8 +19,8 @@ body{
 
 .conteudo{
   padding: 20px;
-  color: #E1E8EBff;
-  background: #24311Cff;
+  color: #e4ffa6ee;
+  background: #222601ff;
   height: 250px;
   width: 700px;
   display: flex;
@@ -30,7 +30,7 @@ body{
 .conteudo{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.5rem;
-  border: 9px #222925ff solid;
+  border: 9px #214001ff solid;
 }
 
 .conteudo .final{
